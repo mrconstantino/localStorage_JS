@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# Armazenamento de Dados na Web utilizando localStorage.
