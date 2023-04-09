@@ -1,3 +1,5 @@
+// linguagem: javascript
+
 const form = document.getElementById("novoItem");
 const lista = document.getElementById("lista");
 const itens = [];
