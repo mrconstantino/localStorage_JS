@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\usert\\OneDrive\\Documentos\\ESTUDOS_ALURA\\JavaScript Na Web_Armazenando Dados no Navegador\\mochila-de-viagem-fd4059289a9aa21c767ee923817968460b666454\\index.html"
+        }
+    ]
+}
